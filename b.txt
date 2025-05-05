@@ -2,3 +2,6 @@ Testando atualização do clone
 c
 d
 e
+Enviando 
+a funcionalidade
+X
