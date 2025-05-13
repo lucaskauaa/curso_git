@@ -1,2 +1,4 @@
 Testando comando git show
 Testando comando diff
+
+Praticando o comando git diff
